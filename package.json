@@ -4,7 +4,7 @@
   "description": "A feeble attempt by a designer to submit his resume via a NPM",
   "main": "resume.json",
   "scripts": {
-    "test": "echo "Error: job position filled" && exit 1"
+    "test": "echo "Error: no test specified" && exit 1"
   },
   "repository": {
     "type": "git",
