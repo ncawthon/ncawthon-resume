@@ -8,7 +8,7 @@
 4 verbose install initial load of /Users/nickcawthon/Documents/repos/resume/package.json
 5 verbose stack Error: Failed to parse json
 5 verbose stack Unexpected token 'r' at 7:21
-5 verbose stack     "test": "echo "Error: job position filled" && exit 1"
+5 verbose stack     "test": "echo "Error: no test specified" && exit 1"
 5 verbose stack                     ^
 5 verbose stack     at parseError (/usr/local/lib/node_modules/npm/node_modules/read-package-json/read-json.js:379:11)
 5 verbose stack     at parseJson (/usr/local/lib/node_modules/npm/node_modules/read-package-json/read-json.js:68:23)
@@ -25,7 +25,7 @@
 12 error code EJSONPARSE
 13 error Failed to parse json
 13 error Unexpected token 'r' at 7:21
-13 error     "test": "echo "Error: job position filled" && exit 1"
+13 error     "test": "echo "Error: no test specified" && exit 1"
 13 error                     ^
 14 error File: /Users/nickcawthon/Documents/repos/resume/package.json
 15 error Failed to parse package.json data.
