@@ -1,5 +1,5 @@
 {
-  "name": "resume",
+  "name": "ncawthon-resume",
   "version": "0.1.0",
   "description": "A feeble attempt by a designer to submit his resume via a NPM",
   "main": "resume.json",
