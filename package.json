@@ -1,6 +1,6 @@
 {
   "name": "resume",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A feeble attempt by a designer to submit his resume via a NPM",
   "main": "resume.json",
   "scripts": {
