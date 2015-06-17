@@ -1,0 +1,204 @@
+{
+  "basics": {
+    "name": "Nick Cawthon",
+    "label": "User Experience",
+    "picture": "https://pbs.twimg.com/profile_images/511550557652135937/XC0dAWNP.jpeg",
+    "email": "nick@gaugedesign.com",
+    "website": "http://gaugedesign.com",
+    "summary": "I am the User Experience Director for Loggly. I work to empower developers to build awesome things for other developers each and every day.",
+    "location": {
+      "city": "Alameda",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+        {
+        "network": "Twitter",
+        "username": "ncawthon",
+        "url": "http://twitter.com/ncawthon"
+        },
+        {
+        "network": "LinkedIn",
+        "username": "ncawthon",
+        "url": "https://www.linkedin.com/in/nickcawthon"
+        },
+        {
+        "network": "Github",
+        "username": "ncawthon",
+        "url": "https://github.com/ncawthon"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Loggly",
+      "position": "Director of User Experience",
+      "website": "http://loggly.com",
+      "startDate": "2013-04-09",
+      "summary": "Leading all User Experience and Product Design efforts",
+      "highlights": [
+        "First design hire for a company re-inventing its product from a pseudo-CLI to a more full-fledged feature set",
+        "Introduced user research to Loggly, conducting over 150 test sessions to inform educated interaction design",
+        "Conduct executive workshops to ideate and define new product features and company direction"
+      ]
+    },
+    {
+      "company": "Gauge Design",
+      "position": "UX Consultancy",
+      "website": "http://gaugedesign.com",
+      "startDate": "2001-03-01",
+      "endDate": "2013-04-01",
+      "summary": "Sole proprietor of a UX / Design consultancy, engaging in client-based product design efforts for the duration of my career",
+      "highlights": [
+        "Designed and built the intranet for the San Francisco Giants",
+        "Worked in-house with Pivotal Labs Singapore on a Joey Ito startup",
+        "Presented to the CMO of Verizon, who was a narcoleptic and promptly fell asleep"
+      ]
+    },
+    {
+      "company": "Organic",
+      "position": "Director of Experience Architecture",
+      "website": "http://www.organic.com",
+      "startDate": "2011-08-01",
+      "endDate": "2012-08-01",
+      "summary": "Design leadership of a long-established digital shop here in San Francisco",
+      "highlights": [
+        "Managed a small UX team of Content Strategists, Information Architects and Interaction Designers across a number of mobile and browser-based applications for both Consumer and Enterprise-focused clients",
+        "Established an internal UX department, growing to service all site work agency-wide",
+        "Acted as the public face of Organic's UX practice by authoring articles on their industry sites",
+        "Led the strategy and design around the largest intranet in the world, as measured by user base"
+      ]
+    },
+    {
+      "company": "Pictr.Us",
+      "position": "Co-Founder and Product Lead",
+      "website": "http://pictr.us",
+      "startDate": "2011-06-01",
+      "endDate": "2012-01-01",
+      "summary": "The photo-sharing app that wasn't worth a billion dollars"
+    },
+    {
+      "company": "hoverState",
+      "position": "Principal",
+      "website": "http://hoverstate.com",
+      "startDate": "2008-03-01",
+      "endDate": "2009-01-01",
+      "summary": "Founded a design and development agency that collapsed in the (second) dotcom bubble"
+  },
+  {
+      "company": "Method Design",
+      "position": "Senior UX/Interaction Designer",
+      "website": "http://method.com",
+      "startDate": "2007-03-01",
+      "endDate": "2008-01-01",
+      "summary": "San Francisco-based digital design agency with a strong sense of swiss aesthetic"
+  },
+  {
+      "company": "University of Sydney",
+      "position": "Graduate Lecturer",
+      "website": "http://usyd.edu.au",
+      "startDate": "2006-02-01",
+      "endDate": "2006-10-01",
+      "summary": "Taught courses of 150 students who to code in an open-source framework, following best-practices for web accessibility"
+  },
+  {
+      "company": "Grey San Francisco",
+      "position": "Interaction Designer",
+      "website": "http://greysf.com",
+      "startDate": "2004-02-01",
+      "endDate": "2001-06-01",
+      "summary": "First hire of an internal digital group to provide design and development services to agency clients"
+  },
+  {
+      "company": "AltaVista",
+      "position": "Visual Designer",
+      "website": "http://altavista.com",
+      "startDate": "2000-02-01",
+      "endDate": "2001-04-01",
+      "summary": "Lead designer of AltaVista image search (at the time), the largest collection of media on the web"
+  }
+  ],
+  "volunteer": [
+    {
+      "organization": "IxDAsf",
+      "position": "Treasurer / Organizer",
+      "website": "http://ixdasf.org",
+      "startDate": "2011-08-01",
+      "summary": "Events organizer for the 4,000 member chapter of Interaction Designers here in San Francisco"
+    },
+    {
+      "organization": "San Francisco Olympic Committee",
+      "position": "Digital Lead",
+      "website": "http://sf2024.org",
+      "startDate": "2014-10-01",
+      "summary": "Design and development efforts for the San Francisco Olympic summer games bid in 2024."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Sydney",
+      "area": "Human Computer Interaction : Design Computing and Cognition",
+      "studySubject": "Aesthetic and Data Visualization",
+      "startDate": "2006-01-01",
+      "endDate": "2008-04-01",
+      "degree": "Masters in Philosophy"
+  },
+  {
+      "institution": "California College of the Arts",
+      "area": "School of Architecture",
+      "studySubject": "Visual Design for New Media",
+      "startDate": "2001-01-01",
+      "endDate": "1999-01-01",
+      "degree": "Bachelor of Fine Arts"
+  },
+  {
+      "institution": "University of Oregon",
+      "area": "School of Architecture and Applied Arts",
+      "studySubject": "Visual Design",
+      "startDate": "1993-10-01",
+      "endDate": "1998-11-01",
+      "degree": "Bachelor of Science"
+  }
+  ],
+  "awards": [
+    {
+      "name": "Innovation in Research Technique or Tool",
+      "date": "2014-03-01",
+      "awarder": "Design for Experience Awards",
+      "summary": "Research project involved canvassing the Bay Area with connected tablets and polling several hundred participants, with client-visible dashboards displaying real-time results"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Advanced",
+      "keywords": [
+        "HTML",
+        "HTML5",
+        "XHTML"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Advanced",
+      "keywords": [
+          "CSS",
+          "Sass",
+          "LESS",
+          "CSS3"
+      ]
+    },
+    {
+      "name": "PHP",
+      "level": "Beginner/Intermediate"
+    },
+    {
+      "name": "JS",
+      "level": "Beginner"
+    },
+    {
+      "name": "SQL",
+      "level": "Beginner"
+    }
+  ]
+}
